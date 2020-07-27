@@ -1,7 +1,6 @@
 *.iml
 *.xml
 *.pyc
-*.png
 *.txt
 *.pth
 *.html
