@@ -1,3 +1,14 @@
+# COLAB 
+
+https://colab.research.google.com/drive/1KLpQchoaH7miyAMBK15wpZbhBlnwkMgZ?usp=sharing
+
+Put images to test in /content/DeblurGAN/input_img/
+See results in /content/results/
+
+
+Check DeblurGANv2 https://github.com/TAMU-VITA/DeblurGANv2
+
+
 # DeblurGAN
 [arXiv Paper Version](https://arxiv.org/pdf/1711.07064.pdf)
 
