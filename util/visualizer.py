@@ -13,9 +13,10 @@ class Visualizer():
         self.win_size = opt.display_winsize
         self.name = opt.name
         if self.display_id > 0:
-            import visdom
-            self.vis = visdom.Visdom(port = opt.display_port)
-            self.display_single_pane_ncols = opt.display_single_pane_ncols
+            # import visdom
+            # self.vis = visdom.Visdom(port = opt.display_port)
+            # self.display_single_pane_ncols = opt.display_single_pane_ncols
+            pass
 
         if self.use_html:
             self.web_dir = os.path.join(opt.checkpoints_dir, opt.name, 'web')
