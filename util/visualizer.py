@@ -16,6 +16,7 @@ class Visualizer():
             # import visdom
             # self.vis = visdom.Visdom(port = opt.display_port)
             # self.display_single_pane_ncols = opt.display_single_pane_ncols
+            print('WE TURNED DOWN VISDOM WINDOW FOR COLAB BECAUSE WE CANT USE SERVERS IN COLAB')
             pass
 
         if self.use_html:
