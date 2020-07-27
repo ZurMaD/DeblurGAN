@@ -8,7 +8,6 @@ from PIL import Image
 class SingleDataset(BaseDataset):
     def initialize(self, opt):
         
-        print('opt={}\ndataroot={}\ndir_A={}\n'.format(str(opt),str(opt.dataroot),str(self.dir_A)))
         self.opt = opt
         self.root = opt.dataroot
         self.dir_A = os.path.join(opt.dataroot)
