@@ -1,4 +1,4 @@
-# COLAB 
+# COLAB VERSION OF DeblurGAN
 
 https://colab.research.google.com/drive/1KLpQchoaH7miyAMBK15wpZbhBlnwkMgZ?usp=sharing
 
